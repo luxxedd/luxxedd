@@ -13,7 +13,7 @@ I'm  LUXXEDD an aspiring Cyber Security Student within the UK, I am currently up
 <br/>
 <br>
 
-### Contact me
+### Contact me 📨
 - :email: dylxnblx@gmail.com
 <br/>
 
