@@ -1,4 +1,5 @@
-## Hey! It's LUXXEDD 👋
+## Hey! I'm LUXXEDD 👋
+I'm  LUXXEDD an aspiring Cyber Security Student within the UK, I am currently uptaking a course with my college to help me progress within the sector of Cybersecurity and Information Technologies (IT). I spend most of my time learning in class or looking at outstanding tasks! 
 
 <br>
 
