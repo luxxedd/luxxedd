@@ -1,5 +1,6 @@
 ## Hey! It's LUXXEDD 👋
 
+<br>
 
 ### My stats ⭐
 
@@ -8,6 +9,14 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxxedd&layout=compact&&langs_count=8"/>
 </div>
 
+<br/>
+<br>
 
+### Contact me
+- :email: dylxnblx@gmail.com
+<br/>
+
+<br>
 ### Profile views counter 👁️‍🗨️
 [![luxxedd profile views](https://u8views.com/api/v1/github/profiles/86127787/views/day-week-month-total-count.svg)](https://u8views.com/github/luxxedd)
+<br/>
